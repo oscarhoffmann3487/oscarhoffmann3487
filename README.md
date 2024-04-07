@@ -11,7 +11,7 @@
 <div>
 <h2>🔭 Currently Working On</h2>
 <div>
-    <a href="https://pinptr.com" target="_blank" rel="noreferrer"><img src="https://github.com/oscarhoffmann3487/oscarhoffmann3487/assets/98847164/122f1c32-2592-4775-b5d7-2bb9d874b65d" alt="PinPtr" style="width: 100px; padding-right: 20px;"></a>
+    <a href="https://pinptr.com" target="_blank" rel="noreferrer"><img src="https://github.com/oscarhoffmann3487/oscarhoffmann3487/assets/98847164/122f1c32-2592-4775-b5d7-2bb9d874b65d" alt="PinPtr" style="width: 100px; padding-right 50px;"></a>
     <a href="https://posteraized.com" target="_blank" rel="noreferrer"><img src="https://github.com/oscarhoffmann3487/oscarhoffmann3487/assets/98847164/6958d7f5-1672-49aa-b57f-d915d5ec22cb" alt="PosterAIzed" style="width: 130px; padding-bottom: 25px;"></a>
 </div>
 
@@ -42,6 +42,7 @@
     <!-- Backend Development -->
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
         <a href="https://www.mysql.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+       <a href="https://flask.palletsprojects.com/en/3.0.x/"><img width="40" style='padding-right:10px;' src="https://github.com/oscarhoffmann3487/oscarhoffmann3487/assets/98847164/3a37aa62-94c9-44c6-b2a6-8a79c925e91e"/></a>
     <!-- DevOps & Tools -->
         <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab"width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="padding-right: 10px;"/></a>
