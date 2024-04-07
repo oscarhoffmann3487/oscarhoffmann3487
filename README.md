@@ -1,23 +1,24 @@
-<h1 align="center">Hi, I'm Oscar 👋</h1>
-<h3 align="center">I'm a 4th year student currently pursuing a Master's degree in Computer Science, specializing in ML and AI. I'm mainly posting solutions to CS labs from my courses at Linköping University + some fun side projects! Feel free to check it out and connect with me on LinkedIn below!</h3>
+<div align="center">
+<h1>Hi, I'm Oscar 👋</h1>
+<h3>I'm a 4th year student currently pursuing a Master's degree in Computer Science, specializing in ML and AI. I'm mainly posting solutions to labs in CS courses at Linköping University + some fun side projects! Feel free to check it out and connect with me on LinkedIn below!</h3>
 
-<div align='center'>
+<div>
   <a href="https://www.linkedin.com/in/hoffmannoscar/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 </div>
-<!-- <div>
-<h2 align='center'>🔭 Currently Working On</h2>
-        <a href="https://pinptr.com" target="_blank" rel="noreferrer">
-            <img src="https://pinptr.com/assets/images/Logga-vit.png" alt="PinPtr" style="width: 100px; height: auto;">
-        </a>
-        <a href="https://posteraized.com" target="_blank" rel="noreferrer">
-            <img src="https://static.wixstatic.com/media/e350af_5db1a663…1.00_0.01,enc_auto/posteraized_new_logo_white.png" alt="PosterAIzed" style="width: 100px; height: auto;">
-        </a>
-</div> -->
 
-<h2 align='center'>🛠️ Tools and Frameworks</h2>
-<div align='center' style="display: flex; flex-direction: column; align-items: center;">
+<div>
+<h2>🔭 Currently Working On</h2>
+<div>
+    <a href="https://pinptr.com" target="_blank" rel="noreferrer"><img src="https://github.com/oscarhoffmann3487/oscarhoffmann3487/assets/98847164/122f1c32-2592-4775-b5d7-2bb9d874b65d" alt="PinPtr" style="width: 100px; padding-right: 20px;"></a>
+    <a href="https://posteraized.com" target="_blank" rel="noreferrer"><img src="https://github.com/oscarhoffmann3487/oscarhoffmann3487/assets/98847164/6958d7f5-1672-49aa-b57f-d915d5ec22cb" alt="PosterAIzed" style="width: 130px; padding-bottom: 25px;"></a>
+</div>
+
+</div> 
+
+<h2>🛠️ Tools and Frameworks</h2>
+<div>
     <!-- Programming Languages -->
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right: 10px;"/></a>
@@ -50,6 +51,7 @@
     <!-- Design & Testing -->
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="padding-right: 10px;"/></a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="padding-right: 10px;"/></a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
     </div>
+</div>
 </div>
