@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
 </div>
-
+<!--
 <div>
 <h2>🔭 Currently Working On</h2>
 <div>
@@ -16,6 +16,7 @@
 </div>
 
 </div> 
+-->
 
 <h2>🛠️ Tools and Frameworks</h2>
 <div>
