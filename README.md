@@ -18,7 +18,7 @@
 </div> 
 -->
 
-<h2>🛠️ Tools and Frameworks</h2>
+<h2>🛠️ Experience in:</h2>
 <div>
     <!-- Programming Languages -->
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
