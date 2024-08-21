@@ -49,7 +49,7 @@
         <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab"width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://jupyter.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/></a>
-        <a href="https://www.databricks.com/"><img width=40px style='padding-right:10px;' src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"/></a>
+        <a href="https://www.databricks.com/"><img width=40px style='padding-right:10px;' src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"/></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://travis-ci.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" style="padding-right: 10px;"/></a>
     <!-- Design & Testing -->
