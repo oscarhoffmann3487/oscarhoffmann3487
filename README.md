@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Oscar 👋</h1>
-<h3>I'm a 4th year student currently pursuing a Master's degree in Computer Science, specializing in ML and AI. I'm mainly posting solutions to labs in CS courses at Linköping University + some fun side projects! Feel free to check it out and connect with me on LinkedIn below!</h3>
+<h3>I'm a 5th year student pursuing a Master's degree in Computer Science, specializing in ML and AI. I'm mainly posting solutions to labs in CS courses at Linköping University + some fun side projects! Feel free to check it out and connect with me on LinkedIn below!</h3>
 
 <div>
   <a href="https://www.linkedin.com/in/hoffmannoscar/" target="_blank">
@@ -27,6 +27,7 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://www.r-project.org"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/"><img width=40px style='padding-right:10px;' src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" /></a>
         <a href="https://posit.co/products/open-source/rstudio/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" /></a>
         <a href="https://matlab.mathworks.com"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/></a>
     <!-- Cloud Platforms -->
@@ -48,6 +49,7 @@
         <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab"width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://jupyter.org/"><img width=40px style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/></a>
+        <a href="https://www.databricks.com/"><img width=40px style='padding-right:10px;' src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"/></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding-right: 10px;"/></a>
         <a href="https://travis-ci.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" style="padding-right: 10px;"/></a>
     <!-- Design & Testing -->
