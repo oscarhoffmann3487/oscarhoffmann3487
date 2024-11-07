@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Oscar 👋</h1>
+<h1>Hi👋</h1>
 <h3>I'm a 5th year student pursuing a Master's degree in Computer Science, specializing in ML and AI. I'm mainly posting solutions to labs in CS courses at Linköping University + some fun side projects! Feel free to check it out and connect with me on LinkedIn below!</h3>
 
 <div>
