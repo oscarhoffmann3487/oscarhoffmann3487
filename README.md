@@ -1,6 +1,6 @@
-<h3>Hello! I like to work on fun side projects!</h3>
+<p>Hello! I like to work on fun side projects!</p>
 
-<h3>Startups</h3>
+<h2>Startups</h2>
 <p>
   <a href="https://posteraized.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/9a92a73a-4067-4ea5-b3b8-f8c4d597d33d" alt="PosterAIzed" width="60" />
