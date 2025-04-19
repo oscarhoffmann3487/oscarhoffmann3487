@@ -11,16 +11,17 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://apstudios.se" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/b8df12f8-f650-4b4e-acae-4056d0a59b42" alt="APstudios" width="130" />
+    <img src="https://github.com/user-attachments/assets/b8df12f8-f650-4b4e-acae-4056d0a59b42" alt="APstudios" width="120" />
   </a>
 </p>
 
+<!--
 <h2>Other projects</h2>
 
 <details><summary><b>2024</b></summary>
   
-- [Gaff](https://apps.apple.com/us/app/gaff-talk-with-friends-daily/id1644599803)
-- [Failure detection algorithms for distributed systems](https://lup.lub.lu.se/student-papers/search/publication/9153924)
-- [Nolanz](https://nolanz.ai/)
+- [TDDE70 Deep Learning](https://github.com/oscarhoffmann3487/TDDE70_Deep_Learning)
+- [Teleprompter](https://github.com/oscarhoffmann3487/Teleprompter)
 
 </details>
+-->
