@@ -1,5 +1,5 @@
 <H3>I like to work on fun side projects!</H3>
-
+<!--
 <p>
   <a href="https://posteraized.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/9a92a73a-4067-4ea5-b3b8-f8c4d597d33d" alt="PosterAIzed" width="30" />
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<!--
+
 <h2>Other projects</h2>
 
 <details><summary><b>2024</b></summary>
